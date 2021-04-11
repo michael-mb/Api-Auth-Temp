@@ -1,4 +1,4 @@
-= Quickstart Template for  SpringBoot with Authentication
+= Quickstart API Template for  SpringBoot with Authentication
 
 === Quickstart confiuration API SpringBoot Project
 
